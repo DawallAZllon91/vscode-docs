@@ -91,7 +91,7 @@ No, hosting it as a service is not allowed, as specified in the [VS Code Server 
 
 If you're working in a restricted environment, you may need to ensure the VS Code Server has access to the following endpoints:
 
-* https://code.visualstudio.com/docs/setup/network#_common-hostnames
+* **https://code.visualstudio.com/docs/setup/network#_common-hostnames**
 * https://code.visualstudio.com/docs/remote/ssh#_what-are-the-connectivity-requirements-for-the-vs-code-server-when-it-is-running-on-a-remote-machine-vm
 
 ### Are there any other extension limitations?
